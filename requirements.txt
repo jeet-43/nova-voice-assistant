@@ -1,0 +1,13 @@
+SpeechRecognition
+pyttsx3
+openai
+gTTS
+pygame
+python-dotenv
+
+# PyAudio is required by SpeechRecognition for microphone access.
+# It's listed separately because it sometimes needs a platform-specific install:
+#   Windows: pip install pyaudio   (or "pip install pipwin && pipwin install pyaudio" if that fails)
+#   macOS:   brew install portaudio && pip install pyaudio
+#   Linux:   sudo apt-get install python3-pyaudio   (or build deps: portaudio19-dev)
+pyaudio
