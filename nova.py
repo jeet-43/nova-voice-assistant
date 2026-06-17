@@ -195,10 +195,10 @@ IDENTITY_PHRASES = (
     "what is your purpose",
     "what can you do",
     "tasks you can perform",
-    "model",
-    "ai model",
-    "ai version",
-    "ai model version",
+    "what model are you",
+    "which ai model",
+    "what ai are you using",
+    "what version are you",
 )
 
 
