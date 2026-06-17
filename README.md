@@ -26,8 +26,8 @@ A voice-activated desktop assistant that listens for the wake word "Nova," carri
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/jeet-43/nova-voice-assistant
+   cd nova
    ```
 
 2. **Create and activate a virtual environment** *(recommended)*
